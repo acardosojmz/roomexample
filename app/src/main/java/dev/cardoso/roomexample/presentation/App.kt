@@ -22,6 +22,6 @@ class App : Application() {
                 mLocalModules,
                 mViewModels)
             )
-        }
+        }//--- End startKoin
     }
 }
